@@ -21,3 +21,14 @@ Documentar 30 días de práctica en desarrollo web y scripting, incluyendo:
 
 ## 💻 Estructura del repositorio
 
+glow-up-code-30days/
+├── day0/              # Día 0: ¡Punto de partida!
+├── day1/              # Día 1: Primer reto completado
+├── day2/
+├── ...
+├── day29/
+├── day30/
+├── index.html         # 🪩 Landing page con enlaces a todos los días
+├── style.css          # 🎀 Estilos globales con glitter y flow pinkpunk
+└── script.js          # ⚙️ Interactividad y magia JS para la experiencia
+
